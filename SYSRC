@@ -1,0 +1,4 @@
+tcsd_enable=YES
+tcsd_mode=emulator
+tpmd_enable=YES
+
